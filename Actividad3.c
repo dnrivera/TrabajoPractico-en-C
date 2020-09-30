@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Sumar 10 números introducidos por teclado.
+*/
+
 int main()
 {
   int i = 0;
