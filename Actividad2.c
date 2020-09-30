@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Calcular y visualizar la suma y el producto de los números pares
+comprendidos entre 20 y 400. Ambos inclusive.
+*/
+
 int main()
 {
     int num = 20;
