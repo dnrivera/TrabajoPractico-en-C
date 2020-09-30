@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Dados 10 números enteros que introducimos por teclado, mostrar la suma de
+los números pares de la lista, cuántos números pares existen y cual es el
+promedio de los números impares.
+*/
+
 int main()
 {
     int i;
