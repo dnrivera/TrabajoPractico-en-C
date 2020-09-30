@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Calcular el promedio de 50 números introducidos por teclado e imprimirlos
+por pantalla.
+*/
+
 int main()
 {
     int i;
