@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Se desea un algoritmo que realice la operación de suma o resta de dos
+números ingresados por teclado. Y al final mostrar el resultado.
+*/
+
 int main()
 {
     int n1,n2;
