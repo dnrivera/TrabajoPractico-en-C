@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Diseñar un algoritmo, que me permita calcular el cuadrado de un número
+ingresado por teclado y el ciclo termina cuando se ingresa un 0.(Usar un ciclo
+repetitivo While).
+*/
+
 int main()
 {
     int num = 1;
