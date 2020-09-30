@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Escribir un programa que solicite la carga de un número entre 0 y 999, y nos
+muestre un mensaje de cuantos digitos tiene el mismo. Finalizar el programa
+cuando se cargue el valor 0.
+*/
+
 int main()
 {
     int num = 1;
