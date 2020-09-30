@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Realizar un programa que me permita ingresar números por teclado y
+calcular su promedio una vez que se ingrese un cero
+*/
+
 int main()
 {
     int contador = 0;
