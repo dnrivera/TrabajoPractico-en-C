@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Ingresar 3 números. Calcular su promedio. Si es mayor a 10 mostrarlo. En
+ambos casos, calcular las diferencias entre cada uno número y el promedio.
+*/
+
 int main()
 {
     int n1,n2,n3;
